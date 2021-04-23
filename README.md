@@ -49,7 +49,7 @@ See [https://cwbaker.github.io/forge/](https://cwbaker.github.io/forge/) for doc
 
 - [Getting Started](https://cwbaker.github.io/forge/getting-started/) to get up and running.
 
-- [Copying Files](https://cwbaker.github.io/forge/tutorials/copying-files/) and [Compile and Link C++](https://cwbaker.github.io/forge/tutorials/compile-and-link-cxx/) for examples of Forge in practice.
+- [Copy Files](https://cwbaker.github.io/forge/tutorials/copy-files.md) and [Compile and Link C++](https://cwbaker.github.io/forge/tutorials/compile-and-link-cxx.md) for examples of Forge in practice.
 
 - [Reference](https://cwbaker.github.io/forge/reference/) describing the Forge API in detail.
 
